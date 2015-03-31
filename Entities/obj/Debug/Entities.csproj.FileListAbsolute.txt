@@ -1,0 +1,5 @@
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\Entities\bin\Debug\Entities.dll
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\Entities\bin\Debug\Entities.pdb
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\Entities\obj\Debug\Entities.dll
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\Entities\obj\Debug\Entities.pdb

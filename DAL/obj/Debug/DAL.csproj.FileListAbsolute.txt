@@ -1,0 +1,8 @@
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\bin\Debug\DAL.dll
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\bin\Debug\DAL.pdb
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\bin\Debug\Entities.dll
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\bin\Debug\MySql.Data.dll
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\bin\Debug\Entities.pdb
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\obj\Debug\DAL.dll
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\DAL\obj\Debug\DAL.pdb

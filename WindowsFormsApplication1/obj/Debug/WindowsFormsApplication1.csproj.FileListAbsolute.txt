@@ -1,0 +1,8 @@
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\flaviu\documents\visual studio 2013\Projects\PiataAZ\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
